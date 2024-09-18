@@ -1,5 +1,5 @@
 # Welcome to Finn's GitHub
-Hey Ich bin Finn ein Normaler Develeloper
+Hey Ich bin Finn ein Normaler Develeloper.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/discord/1264514710275887105?style=plastic&logo=discord&label=Discord&color=blue)](https://discord.gg/5VDKrVCkME)
 ![](https://img.shields.io/github/followers/phyroks.svg?style=social&label=Follow&maxAge=2592000)
