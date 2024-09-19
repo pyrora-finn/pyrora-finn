@@ -14,7 +14,7 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Backend, fronde
 
 ![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&theme=radical)
 
-<a style="padding-left: 200px">[![Discord Presence](https://lanyard.cnrad.dev/api/333569316618371084?hideBadges=false)](https://discord.com/users/1254079221811118120)</a>
+<a style="padding-left: 500px">[![Discord Presence](https://lanyard.cnrad.dev/api/333569316618371084?hideBadges=false)](https://discord.com/users/1254079221811118120)</a>
 
 ---
 
