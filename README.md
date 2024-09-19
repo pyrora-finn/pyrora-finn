@@ -20,3 +20,31 @@ Hey Ich bin Finn ein Normaler Develeloper.
 ## 📊 GitHub Stats
 ![Finn's Github stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&theme=dracula)
+
+
+
+
+# Willkommen auf meinem GitHub-Profil! 👋
+
+Ich bin [Dein Name], ein leidenschaftlicher Entwickler mit Interesse an [Deine Interessen wie z.B. Webentwicklung, maschinelles Lernen, etc.]. Hier findest du eine Auswahl meiner Projekte und Beiträge zur Open-Source-Welt.
+
+![GitHub followers](https://img.shields.io/github/followers/dein_github_benutzername?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/dein_github_benutzername?style=social)
+
+---
+
+## 📊 GitHub Stats
+
+![Dein Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dein_github_benutzername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dein_github_benutzername&layout=compact&theme=radical)
+
+---
+
+## 📫 Kontakt
+
+- GitHub: [dein_github_benutzername](https://github.com/dein_github_benutzername)
+- LinkedIn: [Dein Name](https://www.linkedin.com/in/dein-linkedin-name/)
+- E-Mail: [deine.email@beispiel.com](mailto:deine.email@beispiel.com)
+
+Vielen Dank fürs Vorbeischauen! 😄
