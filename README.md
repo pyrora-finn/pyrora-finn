@@ -34,8 +34,8 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 
 ## 📫 Kontakt
 
-- GitHub: [dein_github_benutzername](https://github.com/dein_github_benutzername)
-- LinkedIn: [Dein Name](https://www.linkedin.com/in/dein-linkedin-name/)
-- E-Mail: [deine.email@beispiel.com](mailto:deine.email@beispiel.com)
+- GitHub: [pyrora-finn](https://github.com/pyrora-finn)
+- DevPost: [DevPost](https://devpost.com/pyrora-finn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- E-Mail: [astro.development.de@gmail.com](astro.development.de@gmail.com)
 
 Vielen Dank fürs Vorbeischauen! 😄
