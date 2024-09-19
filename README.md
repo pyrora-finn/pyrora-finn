@@ -4,7 +4,6 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 
 ![GitHub followers](https://img.shields.io/github/followers/Phyroks?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Phyroks?style=social)
-![Discord](https://widgets.vendicated.dev/user?id=1254079221811118120&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&)
 
 ---
 
@@ -21,6 +20,7 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 ![Finn's Github stats](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=finn_kssssinstagram&logoColor=white)
 ![Finn's Github stats](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)
 ![Finn's Github stats](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discorduser](https://widgets.vendicated.dev/user?id=1254079221811118120&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&)
 
 ---
 
