@@ -40,4 +40,4 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 
 Vielen Dank fürs Vorbeischauen! 😄
 
-[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
