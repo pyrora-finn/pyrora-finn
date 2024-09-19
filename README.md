@@ -39,3 +39,5 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 - E-Mail: [astro.development.de@gmail.com](astro.development.de@gmail.com)
 
 Vielen Dank fürs Vorbeischauen! 😄
+
+[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
