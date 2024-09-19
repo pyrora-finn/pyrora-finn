@@ -39,7 +39,3 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 - E-Mail: [deine.email@beispiel.com](mailto:deine.email@beispiel.com)
 
 Vielen Dank fürs Vorbeischauen! 😄
-
-
-![Finn's Github stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&theme=dracula)
