@@ -13,7 +13,7 @@ Hey Ich bin Finn ein Normaler Develeloper.
 
 ## Social 💻
 ![Finn's Github stats](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Finn's Github stats](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Finn's Github stats](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=finn_kssssinstagram&logoColor=white)
 ![Finn's Github stats](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)
 ![Finn's Github stats](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
