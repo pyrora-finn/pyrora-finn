@@ -4,6 +4,7 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Backend, fronde
 
 ![GitHub followers](https://img.shields.io/github/followers/Phyroks?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Phyroks?style=social)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c3ny3pcFYf)
 
 ---
 
