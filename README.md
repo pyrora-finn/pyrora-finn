@@ -35,7 +35,7 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Backend, fronde
 ## 📫 Kontakt
 
 - GitHub: [pyrora-finn](https://github.com/pyrora-finn)
-- DevPost: [DevPost](https://devpost.com/pyrora-finn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- DevPost: [DevPost.](https://devpost.com/pyrora-finn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - E-Mail: [astro.development.de@gmail.com](astro.development.de@gmail.com)
 
 Vielen Dank fürs Vorbeischauen! 😄
