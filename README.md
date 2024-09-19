@@ -14,4 +14,4 @@ Hey Ich bin Finn ein Normaler Develeloper.
 
 ## 📊 GitHub Stats
 ![Finn's Github stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dracula)
