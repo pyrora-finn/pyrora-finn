@@ -41,3 +41,4 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 Vielen Dank fürs Vorbeischauen! 😄
 
 [![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[[](https://camo.githubusercontent.com/82981bb9648cdf745a755c33e385978035cd69a3b31c7149afa91617d53a063e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d706879726f6b73267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c7365)
