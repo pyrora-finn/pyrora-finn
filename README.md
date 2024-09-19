@@ -2,8 +2,8 @@
 
 Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung, Bots udn Back und frond entwiklung. Hier findest du eine Auswahl meiner Projekte und Beiträge zur Open-Source-Welt.
 
-![GitHub followers](https://img.shields.io/github/followers/pyrora-finn?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/pyrora-finn?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Phyroks?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Phyroks?style=social)
 
 ---
 
