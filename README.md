@@ -4,7 +4,7 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Webentwicklung,
 
 ![GitHub followers](https://img.shields.io/github/followers/Phyroks?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Phyroks?style=social)
-![Discord](https://discord.com/user/1254079221811118120)
+![Discord](https://widgets.vendicated.dev/user?id=1254079221811118120&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&)
 
 ---
 
