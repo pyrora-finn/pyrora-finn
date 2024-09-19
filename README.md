@@ -20,3 +20,9 @@ Hey Ich bin Finn ein Normaler Develeloper.
 ## 📊 GitHub Stats
 ![Finn's Github stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&theme=dracula)
+
+
+[![GitHub issues](https://img.shields.io/github/issues/username/repository)](https://github.com/username/repository/issues)
+[![GitHub forks](https://img.shields.io/github/forks/username/repository)](https://github.com/username/repository/network)
+[![GitHub stars](https://img.shields.io/github/stars/username/repository)](https://github.com/username/repository/stargazers)
+[![GitHub license](https://img.shields.io/github/license/username/repository)](https://github.com/username/repository/blob/main/LICENSE)
