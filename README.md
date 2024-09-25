@@ -12,7 +12,7 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Backend, fronde
 
 ![pyrora-finn](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=transparent)
 
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&theme=transparent)
+![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&theme=bg_color=00000000)
 
 ---
 
