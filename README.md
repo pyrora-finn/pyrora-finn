@@ -3,7 +3,6 @@
 Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Backend, frondend und Bot Developing. Hier findest du eine Auswahl meiner Projekte und Beiträge zur Open-Source-Welt.
 
 ![GitHub followers](https://img.shields.io/github/followers/pyrora-finn?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Phyroks?style=social)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5VDKrVCkME)
 
 ---
@@ -11,7 +10,6 @@ Ich bin Finn, ein leidenschaftlicher Entwickler mit Interesse an Backend, fronde
 ## 📊 GitHub Stats
 
 ![pyrora-finn](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=transparent)
-
 ![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&theme=transparent)
 
 ---
