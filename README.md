@@ -5,7 +5,6 @@ I enjoy building projects using modern tech and learning new tools.
 
 ## 🌀GitStats
 ![Finn Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Reach Me
 - GitHub: [pyrora-finn](https://github.com/pyrora-finn)
