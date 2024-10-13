@@ -1,7 +1,7 @@
-# Hi there, I'm [Dein Name] 👋
+# Hi leute, ich bin Finn 👋
 
-**Passionate [Dein Beruf] focused on [Interessen]!**  
-I enjoy building projects using modern tech and learning new tools.
+Ich bin Developer und Programmiere in meiner Freizeit.
+Und dazu bin ich Founder von **Astro Development**
 
 ## 🌀GitStats
 ![Finn Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
