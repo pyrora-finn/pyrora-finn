@@ -6,7 +6,7 @@
 ## 🌀GitStats
 ![Finn Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
 
-## 📫 Reach Me
+## 📫 Kontakt
 - GitHub: [pyrora-finn](https://github.com/pyrora-finn)
 - DevPost: [DevPost.](https://devpost.com/pyrora-finn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - E-Mail: [astro.development.de@gmail.com](astro.development.de@gmail.com)
