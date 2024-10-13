@@ -4,7 +4,7 @@
 I enjoy building projects using modern tech and learning new tools.
 
 ## 🌀GitStats
-![Finn Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi)
+![Finn Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
 
 ## 📫 Reach Me
 - GitHub: [pyrora-finn](https://github.com/pyrora-finn)
