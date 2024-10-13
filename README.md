@@ -1,7 +1,7 @@
 # Hi leute, ich bin Finn 👋
 
-Ich bin Developer und Programmiere in meiner Freizeit.
-Und dazu bin ich Founder von **Astro Development**
+- Ich bin Developer und Programmiere in meiner Freizeit.
+- Und dazu bin ich Founder von **Astro Development**
 
 ## 🌀GitStats
 ![Finn Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
