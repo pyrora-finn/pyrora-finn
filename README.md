@@ -5,7 +5,7 @@ I enjoy building projects using modern tech and learning new tools.
 
 ## 🌀GitStats
 ![Finn Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi)
-
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 
 ## 🛠️ Tech Stack
