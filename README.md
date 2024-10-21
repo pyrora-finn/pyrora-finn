@@ -6,6 +6,10 @@
 ## 🌀GitStats
 ![Finn Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
 
+
+## Coding Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 📫 Kontakt
 - GitHub: [pyrora-finn](https://github.com/pyrora-finn)
 - DevPost: [DevPost.](https://devpost.com/pyrora-finn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
