@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ---
 
 ### 📫 How to reach me:
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+- [Email](astro.development.de@gmail.com)
 - [Twitter](https://x.com/finn_pyrora)
 ### 🚀 Projects
 Here are a few of my favorite projects:
