@@ -17,8 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ### 📫 How to reach me:
 - [Email](mailto:your.email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- [Twitter](https://twitter.com/https://x.com/finn_pyrora)
-
+- [Twitter](https://x.com/finn_pyrora)
 ### 🚀 Projects
 Here are a few of my favorite projects:
 - [Project 1](https://github.com/YOUR_GITHUB_USERNAME/Project1) - Brief description.
