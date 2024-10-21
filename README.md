@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
 ### 👨‍💻 Coding Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&hide=javascript&theme=holi)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
 
 ---
