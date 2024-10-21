@@ -24,3 +24,5 @@ Here are a few of my favorite projects:
 
 Feel free to explore my repositories, and don't hesitate to contribute or reach out if you'd like to collaborate!
 
+
+[![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
