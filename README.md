@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate software developer with experience in various technologies and languages. Here you will find projects that showcase my skills and interests in programming and software development.
 
 ### 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,mysql,lua,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
 ### 👨‍💻 Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&hide=javascript&theme=holi)
