@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ### 🔧 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,mysql,lua,docker)](https://skillicons.dev)
-## ⚒️ Coding Tools
+---
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
 ### 👨‍💻 Coding Stats
