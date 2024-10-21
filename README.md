@@ -15,12 +15,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ### 📫 How to reach me:
 - [Email](astro.development.de@gmail.com)
 - [Twitter](https://x.com/finn_pyrora)
-### 🚀 Projects
-Here are a few of my favorite projects:
-- [Project 1](https://github.com/YOUR_GITHUB_USERNAME/Project1) - Brief description.
-- [Project 2](https://github.com/YOUR_GITHUB_USERNAME/Project2) - Brief description.
-
-Feel free to explore my repositories, and don't hesitate to contribute or reach out if you'd like to collaborate!
-
 
 [![](https://visitcount.itsvg.in/api?id=pyrora-finn&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
