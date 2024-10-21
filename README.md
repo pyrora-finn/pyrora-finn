@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ### 👨‍💻 Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrora-finn&layout=compact&hide=javascript&theme=holi)
-
+## ⚒️ Coding Tools
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
 
 ---
